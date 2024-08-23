@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lethelet.github.io/sitemap.html.gz
+Sitemap: https://lethelet.github.io/app/sitemap.html.gz
+Sitemap: https://lethelet.github.io/assets/sitemap.html.gz
+Sitemap: https://lethelet.github.io/css/sitemap.html.gz
+Sitemap: https://lethelet.github.io/includes/sitemap.html.gz
+Sitemap: https://lethelet.github.io/item/sitemap.html.gz
+Sitemap: https://lethelet.github.io/src/sitemap.html.gz
